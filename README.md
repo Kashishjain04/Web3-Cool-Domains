@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Cool Domains
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Dapp that provides a service for registering and managing decentralized web3 domains using the Ethereum blockchain and mint them as NFTs.
+#
+### Technologies
+&nbsp;&nbsp;&nbsp;&nbsp;Web3, NFT, Smart Contracts, Solidity, Metamask, Polygon, Reactjs
+#
+![mockup](./mockup.png)
